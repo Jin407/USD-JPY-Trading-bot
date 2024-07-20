@@ -1,5 +1,5 @@
 # USD-JPY-Trading-bot
-#Disclaimer: This trading bot is my own personal project and is not affiliated with any major companies such as OANDA, please use this trading bot as your own risk.
+#Disclaimer: This trading bot is my own personal project and is not affiliated with any major companies such as OANDA, please use this trading bot at your own risk.
 
 1. No Investment Advice
 The information provided by [USD-JPY-Trading-bot] (the "Bot") is for informational purposes only and should not be construed as financial, investment, or other professional advice. You should consult with a financial advisor or other professional to determine what may be best for your individual needs.
