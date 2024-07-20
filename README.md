@@ -1,0 +1,1 @@
+# USD-JPY-Trading-bot
